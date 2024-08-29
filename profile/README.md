@@ -16,7 +16,7 @@ Physics in Medicine & Biology (PMB)
 
 ## [People](https://sites.google.com/ssu.ac.kr/4ilab/people)
 ### Professor
-![Yoseob Han](images/yoseobhan.png){: width="200"}
+<img src="images/yoseobhan.png"  width="200"/>
 
 **[Yoseob Han](https://github.com/hanyoseob), Ph.D. 🎓**
 
