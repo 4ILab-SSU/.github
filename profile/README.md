@@ -1,6 +1,8 @@
 # 4ILab(Integrated Information and Intelligence Imaging Lab)
 @Soongsil University, EE
 
+---
+
 ## 주요 연구 내용
 [Research Interest 🔬](https://sites.google.com/ssu.ac.kr/4ilab/research)
 - 인공지능을 활용한 영상 화질 개선 모델 연구
@@ -13,6 +15,8 @@ Physics in Medicine & Biology (PMB)
 [Paper](https://iopscience.iop.org/article/10.1088/1361-6560/ad31c7)
 
 [Yoseob Han](https://github.com/hanyoseob)
+
+---
 
 ## [People](https://sites.google.com/ssu.ac.kr/4ilab/people)
 ### Professor
@@ -62,6 +66,8 @@ Coming soon 🙏
 1. Medical Image processing
 2. Object Segmentation
 
+---
+
 ## Collaborators
 - 서울대학교
 - 서울대학교병원
@@ -70,6 +76,7 @@ Coming soon 🙏
 - weflo
 - purpletalk
 
+---
 
 ## Contact
 **Office**
