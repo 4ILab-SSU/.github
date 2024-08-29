@@ -25,8 +25,9 @@ Physics in Medicine & Biology (PMB)
 **[Yoseob Han](https://github.com/hanyoseob), Ph.D. 🎓**
 
 Assistant Professor
-Department of Electronic Engineering
-IT Convergence Major
+
+IT Convergence Major, Department of Electronic Engineering
+
 Soongsil University
 
 🏢 Room 302, Faculty Research Building
