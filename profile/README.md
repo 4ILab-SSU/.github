@@ -3,7 +3,7 @@
 
 ---
 
-## 주요 연구 내용
+# 주요 연구 내용
 [Research Interest 🔬](https://sites.google.com/ssu.ac.kr/4ilab/research)
 - 인공지능을 활용한 영상 화질 개선 모델 연구
 - 데이터 전처리를 통한 인공지능 모델의 성능 개선 연구
@@ -18,8 +18,8 @@ Physics in Medicine & Biology (PMB)
 
 ---
 
-## [People](https://sites.google.com/ssu.ac.kr/4ilab/people)
-### Professor
+# [People](https://sites.google.com/ssu.ac.kr/4ilab/people)
+## Professor
 <img src="images/yoseobhan.png"  width="200"/>
 
 **[Yoseob Han](https://github.com/hanyoseob), Ph.D. 🎓**
@@ -34,9 +34,9 @@ Soongsil University
 
 📞 02-828-7150 ✉️ yoseob.han@ssu.ac.kr
 
-### Graduate Researchers 🧑‍🎓👩‍🎓
+## Graduate Researchers 🧑‍🎓👩‍🎓
 Coming soon 🙏
-### Undergraduate Researchers 👩‍💻🧑‍💻
+## Undergraduate Researchers 👩‍💻🧑‍💻
 **[Jungmin Lee](https://github.com/peter8366)**
 1. Deepfake detection
 2. Medical Image processing
@@ -62,14 +62,14 @@ Coming soon 🙏
 2. Speech Enhancement
 
 
-### Undergraduate Interns ✏️
+## Undergraduate Interns ✏️
 **[Geona Lee](https://github.com/kuna00144)**
 1. Medical Image processing
 2. Object Segmentation
 
 ---
 
-## Collaborators
+# Collaborators
 - 서울대학교
 - 서울대학교병원
 - 한국과학기술연구원
@@ -79,7 +79,7 @@ Coming soon 🙏
 
 ---
 
-## Contact
+# Contact
 **Office**
 🏢 Room 302, Faculty Research Building (연구관)
 📞 02-828-7150 ✉️ yoseob.han@ssu.ac.kr
