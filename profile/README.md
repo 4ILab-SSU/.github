@@ -53,7 +53,7 @@ Coming soon 🙏
 1. CT Reconstruction
 2. Medical Image processing
 
-**[Suho Han](https://github.com/unbroken2650)**
+**[Suho Han](https://github.com/suho-han)**
 1. Diffusion based Segmentation
 2. Interactive Segmentation
 
